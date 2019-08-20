@@ -36,7 +36,6 @@ info: #这个info下面的东西相当于是一个Json
  company.name: www.atguigu.com
  build.artifactId: $project.artifactId$
  build.version: $project.version$
-
 ---
 server:
   port: 8001
